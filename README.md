@@ -29,7 +29,7 @@
 
 Sneery - [@ItsYaBoiDilsin](https://twitter.com/ItsYaBoiDilsin) -SneeryEmperor51@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/SneeryEmperor51/JDMZone](https://github.com/SneeryEmperor51/JDMZone)
 
 
 
