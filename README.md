@@ -20,7 +20,7 @@
 
 * [HTML](https://www.w3schools.com/html/default.asp)
 * [CSS](https://www.w3schools.com/css/default.asp)
-* [javascript](https://www.w3schools.com/js/default.asp)
+
 
 
 
