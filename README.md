@@ -31,6 +31,14 @@ Sneery - [@ItsYaBoiDilsin](https://twitter.com/ItsYaBoiDilsin) -SneeryEmperor51@
 
 Project Link: [http://jdm-zone.vercel.app/](http://jdm-zone.vercel.app/)
 
+<!-- LEGEND -->
+## Legend
+
+<b>Needs Rating/Review</b> - Is well known across the community but has little to no actual reviews
+<b>N/A</b> - Site/Company houses more than just Automotive, cannot be rated
+<b>(?)</b> - Some site has reviews but is not known by me or members of the community, needs reassurance
+<b>Not many ratings found, confirmed legit and safe through local commuunities and forums</b> - The Site/Company does not have many reviews online but is well known throughout communites and car forums, and are confirmed safe
+<b>Ratings depend on store location</b> - A major chain of stores across countrie(s) that cannot be rated as each store has their own rating.
 
 
 <!-- ACKNOWLEDGEMENTS -->
