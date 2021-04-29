@@ -1,7 +1,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/SneeryEmperor51/JDMZone">
     <img src="https://user-images.githubusercontent.com/59810782/115248931-22bad280-a0f6-11eb-929a-76f35d5a1219.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -44,6 +44,16 @@ Project Link: [http://jdm-zone.vercel.app/](http://jdm-zone.vercel.app/)
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [CarID](https://www.carid.com/)
+* [Reddit](https://www.reddit.com/)
+* [Google](https://www.google.com/)
+* [Google Reviews]()
+* [Various car forums]()
+* [SiteJabber](https://www.sitejabber.com/)
+* [AutoAnything](https://www.autoanything.com/)
+* [Github README template](https://github.com/othneildrew/Best-README-Template)
+* [Github Emoji list](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+
+
+
