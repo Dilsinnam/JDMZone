@@ -16,7 +16,7 @@
 
 
 
-### Built With
+### :hammer: Built With
 
 * [HTML](https://www.w3schools.com/html/default.asp)
 * [CSS](https://www.w3schools.com/css/default.asp)
@@ -25,14 +25,14 @@
 
 
 <!-- CONTACT -->
-## Contact :iphone:
+## :iphone: Contact 
 
 Sneery - [@ItsYaBoiDilsin](https://twitter.com/ItsYaBoiDilsin) -SneeryEmperor51@gmail.com
 
 Project Link: [http://jdm-zone.vercel.app/](http://jdm-zone.vercel.app/)
 
 <!-- LEGEND -->
-## Legend
+## :mag_right: Legend
 
 <b>Needs Rating/Review</b> - Is well known across the community but has little to no actual reviews<br><br>
 <b>N/A</b> - Site/Company houses more than just Automotive, cannot be rated<br><br>
@@ -42,7 +42,7 @@ Project Link: [http://jdm-zone.vercel.app/](http://jdm-zone.vercel.app/)
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## :raised_hands: Acknowledgements
 
 * [CarID](https://www.carid.com/)
 * [Reddit](https://www.reddit.com/)
