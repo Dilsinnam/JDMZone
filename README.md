@@ -25,7 +25,7 @@
 
 
 <!-- CONTACT -->
-## Contact
+## Contact :iphone:
 
 Sneery - [@ItsYaBoiDilsin](https://twitter.com/ItsYaBoiDilsin) -SneeryEmperor51@gmail.com
 
