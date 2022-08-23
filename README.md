@@ -27,8 +27,6 @@
 <!-- CONTACT -->
 ## :iphone: Contact 
 
-Sneery - [@ItsYaBoiDilsin](https://twitter.com/ItsYaBoiDilsin) -SneeryEmperor51@gmail.com
-
 Project Link: [http://jdm-zone.vercel.app/](http://jdm-zone.vercel.app/)
 
 <!-- LEGEND -->
